@@ -20,7 +20,7 @@ I am a final year PhD student at the Department of Electrical, Computer and Syst
 
 My research interests are centered on causal inference from interventions. Specifically, I focus on leveraging the shared causal mechanisms and the role of interventions. across different data environments. During my PhD, I have been developing methodology for causal representation learning, sequential intervention design, and causal structure learning.
 
-I am a [2020 IBM AI Horizons Scholar](https://airc.rpi.edu/aih-scholars) as part of [RPI-IBM AIRC program](https://airc.rpi.edu/) and worked closely with a number of researchers, including [Dr. Karthikeyan Shanmugam](https://sites.google.com/a/utexas.edu/karthiksh/) and [Dr. Prasanna Sattigeri](https://pronics2004.github.io/). 
+I have been selected a [2020 IBM AI Horizons Scholar](https://airc.rpi.edu/aih-scholars) as part of [RPI-IBM AIRC program](https://airc.rpi.edu/) and worked closely with a number of collaborators, including [Dr. Karthikeyan Shanmugam](https://sites.google.com/a/utexas.edu/karthiksh/) and [Dr. Prasanna Sattigeri](https://pronics2004.github.io/). 
 
 
 <!-- 🔈: I am on the job market ✨✨ -->
