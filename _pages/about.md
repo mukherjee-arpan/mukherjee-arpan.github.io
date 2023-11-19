@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: Varici.jpg
+  image: varici.jpg
   image_circular: true # crops the image to make it circular
   # more_info: >
   #   <p>Rensselaer Polytechnic Institute, Troy, NY</p>
