@@ -2,96 +2,80 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Burak Varıcı
     - name: Languages
-      value: English, German
+      value: English, Turkish
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. Electrical Engineering
+      institution: Rensselaer Polytechnic Institute
+      year: 2024 (expected)
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Thesis Causal Learning via Interventions Estimation and Design
+        - Advisor Prof. Ali Tajer
+    - title: M.S. Electrical Engineering
+      institution: Rensselaer Polytechnic Institute
+      year: 2020
+    - title: B.S. Electrical & Electronics Engineering
+      institution: Boğaziçi University
+      year: 2018
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Assistant
+      institution: Rensselaer Polytechnic Institute
+      year: 2018 - 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - Developed identifiability results and algorithms for causal representation learning via interventions 
+        - Designed and analyzed causal bandit algorithms with relaxed assumption compared to the state-of-the-art
+        - Developed consistent algorithms to learn from interventional data in both causally sufficient and insufficient systems
+        - Researched on structure learning of shared subgraphs for multiple undirected graphical models. 
+    
+    - title: Visiting Research Scholar
+      institution: MIT-IBM Watson AI LAB
+      year: 2022
+      description: Developed a novel framework for causal discovery from a mixture of models
+      
+    - title: AI Horizons Extern
+      institution: The Rensselaer-IBM AI Research Collaboration
+      year: 2020
+      description: Researched on combining the causal discovery process with generative modeling
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Intern
+      institution: Speech Enabled Smart Technologies (Istanbul, Turkey)
+      year: 2017
+      description: Built deep learning algorithms for a speaker identity verification systems
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - UAI Top Reviewer Award and Scholarship  
+    - year: 2022
       items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
+        - Belsky Award for Computational Sciences and Engineering
+    - year: 2022
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Jerry Dziuba ECSE Graduate Student Service Award
+    - year: 2020
       items:
-        - Description 1.
-        - Description 2.
+        - The Rensselaer-IBM AI Research Collaboration Fellowship
+    - year: 2012
+      items: 
+        - International Balkan Mathematical Olympiad - Silver Medal
+    - year: 2012
+      items:
+        - Turkish National Mathematical Olympiad - Silver Medal          
 
-- title: Other Interests
-  type: list
+- title: Service
+  type: map
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - name: Reviewer
+      value: IEEE Transactions on Signal Processing, NeurIPS (2021, 2022, 2023), UAI (2023), AAAI (2023), AISTATS (2024)
+
