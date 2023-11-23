@@ -4,86 +4,78 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: Varici_CV_November2023.pdf
+cv_pdf: Arpan_CV.pdf
 ---
 
 - title: General Information
   type: map
   contents:
     - name: Full Name
-      value: Burak Varıcı
+      value: Arpan Mukherjee
     - name: Languages
-      value: English, Turkish
+      value: English, Bengali, Hindi
 
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. Electrical Engineering
+    - title: Ph.D. Information Sciences
       institution: Rensselaer Polytechnic Institute
       year: 2024 (expected)
       description:
-        - Thesis Causal Learning via Interventions Estimation and Design
-        - Advisor Prof. Ali Tajer
-    - title: M.S. Electrical Engineering
-      institution: Rensselaer Polytechnic Institute
-      year: 2020
-    - title: B.S. Electrical & Electronics Engineering
-      institution: Boğaziçi University
-      year: 2018
+        - "Thesis: Best Arm Identification - Efficiency, Optimality and Robustness"
+        - "Advisor: Prof. Ali Tajer"
+    - title: M.Tech. Telecomunication Systems Engineering
+      institution: Indian Institute of Technology, Kharagpur
+      year: 2019
+    - title: B.Tech. Electronics and Communication Engineering
+      institution: West Bengal University of Technology
+      year: 2017
 
 - title: Experience
   type: time_table
   contents:
     - title: Research Assistant
       institution: Rensselaer Polytechnic Institute
-      year: 2018 - 2023
+      year: 2019 - 2023
       description:
-        - Developed identifiability results and algorithms for causal representation learning via interventions 
-        - Designed and analyzed causal bandit algorithms with relaxed assumption compared to the state-of-the-art
-        - Developed consistent algorithms to learn from interventional data in both causally sufficient and insufficient systems
-        - Researched on structure learning of shared subgraphs for multiple undirected graphical models. 
+        - Devoloped efficient and optimal algorithms for best arm identification in stochastic bandits
+        - Devised algorithms for robust best arm identification in stochastic bandits
+        - Developed algorithms for active learning over networks
     
-    - title: Visiting Research Scholar
-      institution: MIT-IBM Watson AI LAB
-      year: 2022
-      description: Developed a novel framework for causal discovery from a mixture of models
+    - title: Research Intern
+      institution: IBM T.J. Watson Research Center, NY
+      year: 2023
+      description:
+        - Devised efficient algorithms for combinatorial multi-armed bandits with group testing
+        - Mentors. [Dr. Shashanka Ubaru](https://shashankaubaru.github.io), [Dr. Keerthiram Murugesan](http://www.cs.cmu.edu/~kmuruges/Home.html) and [Dr. Karthikeyan Shanmugam](https://sites.google.com/view/karthikeyan-shanmugam/)
+        - Manager. [Dr. Lior Horesh](https://researcher.watson.ibm.com/researcher/view.php?person=us-lhoresh)
       
-    - title: AI Horizons Extern
-      institution: The Rensselaer-IBM AI Research Collaboration
-      year: 2020
-      description: Researched on combining the causal discovery process with generative modeling
-
-    - title: Intern
-      institution: Speech Enabled Smart Technologies (Istanbul, Turkey)
-      year: 2017
-      description: Built deep learning algorithms for a speaker identity verification systems
+      
+    - title: Research Intern
+      institution: IBM T.J. Watson Research Center, NY
+      year: 2021
+      description:
+        - Worked on data-aware client selection in federated learning
+        - Mentors. [Dr. Shiqiang Wang](https://shiqiang.wang) and [Dr. Georgios Kollias](https://researcher.watson.ibm.com/researcher/view.php?person=us-gkollias)
+        - Manager. Dr. Theodoros Salonidis
 
 
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2023
-      items: 
-        - UAI Top Reviewer Award and Scholarship  
     - year: 2022
-      items: 
-        - Belsky Award for Computational Sciences and Engineering
-    - year: 2022
-      items: 
-        - Jerry Dziuba ECSE Graduate Student Service Award
+      items:
+        - Winner of the ISIT Information Theoretic Duets.
     - year: 2020
       items:
-        - The Rensselaer-IBM AI Research Collaboration Fellowship
-    - year: 2012
-      items: 
-        - International Balkan Mathematical Olympiad - Silver Medal
-    - year: 2012
+        - B. Jayant Baliga ’74 Graduate Student Fellowship Award.
+    - year: 2017
       items:
-        - Turkish National Mathematical Olympiad - Silver Medal          
+        - MHRD PG Fellowship through GATE.
 
 - title: Service
   type: map
   contents:
     - name: Reviewer
-      value: IEEE Transactions on Signal Processing, NeurIPS (2021, 2022, 2023), UAI (2023), AAAI (2023), AISTATS (2024)
+      value: IEEE Transactions on Signal Processing, IEEE Transactions on Information Theory, IEEE Transactions on Communications, IEEE Transactions on Mobile Computing, NeurIPS (2021), AAAI (2021), AISTATS (2022,2023,2024)

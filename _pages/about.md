@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: varici2021.jpeg
+  image: me.jpeg
   image_circular: true # crops the image to make it circular
   # more_info: >
   #   <p>Rensselaer Polytechnic Institute, Troy, NY</p>
@@ -16,11 +16,10 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a final year PhD student at the Department of Electrical, Computer and Systems Engineering (ECSE), Rensselaer Polytechnic Institute ([RPI](https://www.ecse.rpi.edu/)), advised by [Prof. Ali Tajer](https://www.isg-rpi.com/). 
+I am a final year PhD student at the Department of Electrical, Computer and Systems Engineering (ECSE), Rensselaer Polytechnic Institute ([RPI](https://www.ecse.rpi.edu/)), advised by [Prof. Ali Tajer](https://www.isg-rpi.com/). Prior to joining RPI, I have spent two wonderful years at the Indian Institute of Technology, Kharagpur, where I was advised by [Prof. Mrityunjoy Chakraborty](http://www.ecdept.iitkgp.ac.in/faculty/MChakraborty/).  
 
-My research interests are centered on causal inference from interventions. During my PhD, I have focused on leveraging the shared causal mechanisms and the role of interventions across different data environments. Specifically, I have been developing methodology for causal representation learning, sequential intervention design, and causal structure learning.
+I am broadly interested in sequential experimental design. My research has mainly focused on multi-armed bandits and active learning. On a high level, I work on devising **robust**, **efficient** and **optimal** algorithms for sequential decision making problems, such as best arm identification and regret minimization. In another life, I used to work on adaptive filters and digital signal processing.
 
-I have been selected a [2020 IBM AI Horizons Scholar](https://airc.rpi.edu/aih-scholars) as part of [RPI-IBM AIRC program](https://airc.rpi.edu/) and worked closely with a number of collaborators, including [Dr. Karthikeyan Shanmugam](https://sites.google.com/a/utexas.edu/karthiksh/) and [Dr. Prasanna Sattigeri](https://pronics2004.github.io/). 
 
 
 <!-- 🔈: I am on the job market ✨✨ -->
