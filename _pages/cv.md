@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: Arpan_CV.pdf
+cv_pdf: Arpan_CV_new.pdf
 ---
 
 - title: General Information
@@ -20,9 +20,9 @@ cv_pdf: Arpan_CV.pdf
   contents:
     - title: Ph.D. Information Sciences
       institution: Rensselaer Polytechnic Institute
-      year: 2024 (expected)
+      year: Fall 2024
       description:
-        - "Thesis: Best Arm Identification - Efficiency, Optimality and Robustness"
+        - "Thesis: Best Arm Identification - Efficiency, Optimality, Robustness & Risk-Sensitivity"
         - "Advisor: Prof. Ali Tajer"
     - title: M.Tech. Telecomunication Systems Engineering
       institution: Indian Institute of Technology, Kharagpur
