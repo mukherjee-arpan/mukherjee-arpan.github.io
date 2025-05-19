@@ -5,5 +5,8 @@ inline: true
 related_posts: false
 ---
 
-I will be joining Imperial College London with Prof. Deniz Gündüz as a PostDoc in November! If you are in London and would like to chat, drop a hi!
+### Updates
 
+- 🧭 **December 2025**: I joined Imperial College London as an [Informed-AI postdoctoral researcher](https://informed-ai.net).
+- 📝 **January 2025**: Our paper on [risk-sensitive bandits](https://arxiv.org/pdf/2503.08896) has been accepted to **AISTATS 2025**!
+- 📄 **May 2025**: A new paper on [preference-centric bandits](https://arxiv.org/pdf/2504.20877) is now available on arXiv.
