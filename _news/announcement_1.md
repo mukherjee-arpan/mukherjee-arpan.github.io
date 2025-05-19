@@ -1,10 +1,3 @@
----
-layout: post
-date: 2024--11--01 
-inline: true
-related_posts: false
----
-
 ### Updates
 
 - 🧭 **December 2025**: I joined Imperial College London as an [Informed-AI postdoctoral researcher](https://informed-ai.net).
