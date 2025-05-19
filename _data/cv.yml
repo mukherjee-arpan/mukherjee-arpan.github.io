@@ -27,34 +27,28 @@
   contents:
     - title: Research Assistant
       institution: Rensselaer Polytechnic Institute
-      year: 2019 - 2023
-      description:
-        - Devoloped efficient and optimal algorithms for best arm identification in stochastic bandits
-        - Devised algorithms for robust best arm identification in stochastic bandits
-        - Developed algorithms for active learning over networks
+      year: 2019 - 2024
+
+    - title: Research Intern
+      institution: IBM T.J. Watson Research Center, NY
+      year: 2024
     
     - title: Research Intern
       institution: IBM T.J. Watson Research Center, NY
       year: 2023
-      description:
-        - Devised efficient algorithms for combinatorial multi-armed bandits with group testing
-        - Mentors. Dr. Shashanka Ubaru, Dr. Keerthiram Murugesan and Dr. Karthikeyan Shanmugam
-        - Manager. Dr. Lior Horesh
-      
       
     - title: Research Intern
       institution: IBM T.J. Watson Research Center, NY
       year: 2021
-      description:
-        - Worked on data-aware client selection in federated learning
-        - Mentors. Dr. Shiqiang Wang and Dr. Georgios Kollias
-        - Manager. Dr. Theodoros Salonidis
 
 
 
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2025
+      items:
+        - Allen B. Dumont Prize for doctoral disseration.
     - year: 2022
       items:
         - Winner of the ISIT Information Theoretic Duets.
@@ -64,9 +58,3 @@
     - year: 2017
       items:
         - MHRD PG Fellowship through GATE.
-
-- title: Service
-  type: map
-  contents:
-    - name: Reviewer
-      value: IEEE Transactions on Signal Processing, IEEE Transactions on Information Theory, IEEE Transactions on Communications, IEEE Transactions on Mobile Computing, NeurIPS (2021), AAAI (2021), AISTATS (2022,2023,2024)
