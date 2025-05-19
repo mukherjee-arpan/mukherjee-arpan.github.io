@@ -36,34 +36,28 @@ cv_pdf: ArpanM_CV.pdf
   contents:
     - title: Research Assistant
       institution: Rensselaer Polytechnic Institute
-      year: 2019 - 2023
-      description:
-        - Devoloped efficient and optimal algorithms for best arm identification in stochastic bandits
-        - Devised algorithms for robust best arm identification in stochastic bandits
-        - Developed algorithms for active learning over networks
+      year: 2019 - 2024
+
+    - title: Research Intern
+      institution: IBM T.J. Watson Research Center, NY
+      year: 2024
     
     - title: Research Intern
       institution: IBM T.J. Watson Research Center, NY
       year: 2023
-      description:
-        - Devised efficient algorithms for combinatorial multi-armed bandits with group testing
-        - Mentors. [Dr. Shashanka Ubaru](https://shashankaubaru.github.io), [Dr. Keerthiram Murugesan](http://www.cs.cmu.edu/~kmuruges/Home.html) and [Dr. Karthikeyan Shanmugam](https://sites.google.com/view/karthikeyan-shanmugam/)
-        - Manager. [Dr. Lior Horesh](https://researcher.watson.ibm.com/researcher/view.php?person=us-lhoresh)
-      
       
     - title: Research Intern
       institution: IBM T.J. Watson Research Center, NY
       year: 2021
-      description:
-        - Worked on data-aware client selection in federated learning
-        - Mentors. [Dr. Shiqiang Wang](https://shiqiang.wang) and [Dr. Georgios Kollias](https://researcher.watson.ibm.com/researcher/view.php?person=us-gkollias)
-        - Manager. Dr. Theodoros Salonidis
 
 
 
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2025
+      items:
+        - Allen B. Dumont Prize for doctoral dissertation.
     - year: 2022
       items:
         - Winner of the ISIT Information Theoretic Duets.
@@ -73,9 +67,3 @@ cv_pdf: ArpanM_CV.pdf
     - year: 2017
       items:
         - MHRD PG Fellowship through GATE.
-
-- title: Service
-  type: map
-  contents:
-    - name: Reviewer
-      value: IEEE Transactions on Signal Processing, IEEE Transactions on Information Theory, IEEE Transactions on Communications, IEEE Transactions on Mobile Computing, NeurIPS (2021), AAAI (2021), AISTATS (2022,2023,2024)
