@@ -6,5 +6,3 @@ related_posts: false
 ---
 
 I joined Imperial College London as an [Informed-AI postdoctoral researcher](https://informed-ai.net).
-
----
